@@ -21,7 +21,7 @@ class TestScreen extends StatelessWidget {
           gradient: LinearGradient(
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
-            colors: [Color(0xFFF3E5F5), Color(0xFFFCE4EC)],
+            colors: [Color(0xFFF3E5F5), Color(0xFFD1C4E9)],
           ),
         ),
         child: SafeArea(
